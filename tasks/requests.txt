@@ -1,0 +1,71 @@
+Bart-Jan Schuman <Bart-Jan@Schuman.de>
+
+	Hi guys (and Girls?),
+
+	You asked for it ;-)
+	Please implement the Go tournament mode clock:
+	- one fixed time, useally set to something like 30, or 60 minutes, over each player, counting down, before it is
+	- followed by "progessive" byu-jomi, meaning there is a certain amount of minutes, typically 5 where one has play a increasing amount of stones.
+	So in the first byu-jomi period you play 15 stones and then when you have done that your clock gets reset to the same amount (here 5 minutes) in which you have to play a certain amount of more stones, typically 5. Followed by 25 in the next 5 min. Followed by 30 in 5, etc. etc.
+	Of course if you run out of the 5 min. you loose the game.
+
+	Hope this helps, let me know if you need more info, OK?
+
+	Happy coding,
+
+
+	Bart-Jan.
+
+	Verstuurd vanaf mijn iPad
+	
+================================================================================================================================================================================================================================================================================================================================================
+Albert Tan <albert4225@gmail.com>
+
+
+Hi,
+I have enjoyed and find the app interesting. 
+
+Would appreciate it better if your can assign all the buttons such as buttons for Begin game, Start/Stop, Reset, Restart and Back to a corresponding buttons of the Keyboard connected via the usb (using the ipad camera connection kit) or bluetooth.
+
+In this way, the Ipad can be displayed on a stand and TIMER remotely activated.
+
+Thanks
+
+Sent from my PDA,
+
+================================================================================================================================================================================================================================================================================================================================================
+Dave Sigaty <daveatgi@gmail.com>
+	
+Hi BGT developers!
+
+First I would like to congratulate you and thank you for providing an excellent game clock.  It is a very nice blend of clean interface and rich features.  Well done!
+
+Nevertheless, I would also like to make a couple of suggestions/requests for two additional features:
+In Fischer Timing, I would like to request that you add the ability to limit the accumulation of time to the original Total Start Time.  This is sometimes referred to as Capped Fischer.  The only place that I have encountered an actual implementation online is on turn-based Go servers such as Dragon Go Server (DGS) and the Online Go Server (OGS).  The implementation on DGS is that which I have requested here - accumulation is capped at the original main time amount.  The OGS version is more flexible in that you can set the limit separate from the main time amount (see the links for the respective FAQ's).  In my imagination, I can picture implementing the DGS version with a simple check box to set "limit accumulation to main time" on/off.  This might be more in keeping with your stated goal to keep things simple!  The idea is also implemented in the Chronos Game Clock, but I think that was an accident (see my comments under Fischer Timing on the Chronos Manual page at Sensei's Library - I am "Dave" on Sensei's).
+In Hour Glass Timing, I would like to request that you add an option for a Bronstein-style, non-accumulating increment.  I have played a good deal of hour glass with friends (see also my comments under "Hourglass" on the above Chronos Manual page).  It is very exciting but too often one player or another will too quickly get too far ahead on time and dominate the game.  This becomes a greater problem in a nearly linear relationship with the number of beers consumed.  The option to use an increment as well would be a big help.
+I am addicted to Go as a hobby and have been playing steadily for some 35 years both over-the-board and online.  Related to the use of clocks for Go, I wrote the timing system analysis Timing Systems Redux on Sensei's Library.  I wrote that in an attempt to get the developer of KGS to implement more timing systems on his Go server.  He refused, not being as interested in the issues as I was :-(  However, I believe that it is far more likely that we can successfully experiment with innovative ideas via software than through producing additional features in physical clocks.  Needless to say, my eyes lit up as soon as I found BGT in the app store and tried it out!  I wonder if you would be interested in a little innovation with BGT? :-)
+
+Best regards,
+Dave Sigaty
+
+================================================================================================================================================================================================================================================================================================================================================
+Art Grater <art.grater@gmail.com>
+
+
+Hello.  Well done!  I use it for tournament backgammon.
+
+I'd like to suggest the ability to save mode, time and delay.  In backgammon, match length varies a lot from one tournament to the next and also during a tournament. So it would be great to have "favorites" that let players set up profiles and then select them at match time.
+
+I request this feature with trepidation, because I think your uncluttered layout is VERY desirable. 
+
+Oh, one other thing might be to let the user stretch and pinch the buttons to alter the size. That's not a biggie.
+
+Thanks again.
+
+-- 
+Art Grater
+P.O. Box 1747
+Pebble Beach, CA 93953
+831-915-7788
+
+================================================================================================================================================================================================================================================================================================================================================	
